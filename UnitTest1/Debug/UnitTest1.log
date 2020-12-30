@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+E:\унік\Алгоритмізація і програмування\lab6\6.4 rec\6.4\6.4.cpp(86): warning C4715: 'sum': not all control paths return a value
+E:\унік\Алгоритмізація і програмування\lab6\6.4 rec\6.4\6.4.cpp(96): warning C4715: 'find_zero': not all control paths return a value
+E:\унік\Алгоритмізація і програмування\lab6\6.4 rec\6.4\6.4.cpp(110): warning C4715: 'min': not all control paths return a value
+     Creating library E:\унік\Алгоритмізація і програмування\lab6\6.4 rec\Debug\UnitTest1.lib and object E:\унік\Алгоритмізація і програмування\lab6\6.4 rec\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> E:\унік\Алгоритмізація і програмування\lab6\6.4 rec\Debug\UnitTest1.dll

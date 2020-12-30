@@ -1,0 +1,5 @@
+﻿  6.4.cpp
+E:\унік\Алгоритмізація і програмування\lab6\6.4 rec\6.4\6.4.cpp(86): warning C4715: 'sum': not all control paths return a value
+E:\унік\Алгоритмізація і програмування\lab6\6.4 rec\6.4\6.4.cpp(96): warning C4715: 'find_zero': not all control paths return a value
+E:\унік\Алгоритмізація і програмування\lab6\6.4 rec\6.4\6.4.cpp(110): warning C4715: 'min': not all control paths return a value
+  6.4.vcxproj -> E:\унік\Алгоритмізація і програмування\lab6\6.4 rec\Debug\6.4.exe
